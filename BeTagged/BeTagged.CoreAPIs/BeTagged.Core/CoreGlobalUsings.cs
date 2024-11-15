@@ -1,0 +1,10 @@
+﻿global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using BeTagged.Core.Constants;
+global using BeTagged.Core.Models;
+global using BeTagged.Data;
+global using BeTagged.Data.Entities;
+global using BeTagged.Data.Enums;
+global using FluentValidation;
+global using MediatR;
